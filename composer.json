@@ -1,0 +1,14 @@
+{
+  "name": "scorp7mix/multiexception",
+  "description": "Class for Multiple Exceptions",
+  "keywords": ["exceptions", "multiple"],
+  "authors": [
+    {
+      "name": "Maxim Fedorov",
+      "email": "scorp7mix@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">5.6"
+  }
+}
